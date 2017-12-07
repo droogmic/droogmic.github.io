@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://droogmic.github.io//#contact</loc>
+    <lastmod>2017-12-07T20:15:53+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://droogmic.github.io//#about</loc>
+    <lastmod>2017-12-07T20:15:41+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://droogmic.github.io//#intro</loc>
+    <lastmod>2017-12-07T20:13:33+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://droogmic.github.io//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://droogmic.github.io//#</loc>
+    <lastmod>2017-12-07T20:15:53+10:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://droogmic.github.io//#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
