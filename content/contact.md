@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-date: 2017-12-07T20:15:53+10:30
+date: 2017-12-06T20:00:00+01:00
 draft: false
 ---
 
@@ -22,5 +22,3 @@ draft: false
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
-
-{{< socialLinks >}}

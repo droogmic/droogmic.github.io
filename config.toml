@@ -29,13 +29,13 @@ theme = "droogmic-dimension"
   icon = "twitter"
   link = "https://twitter.com/droogmic"
 
-[languages]
-[languages.en]
-languageName = "English"
-weight = 1
-
-[languages.fr]
-languageName = "Français"
-weight = 2
-title = "Michael Droogleever"
-description = "Diplomé en ingénierie informatique de l'Université de Cambridge"
+# [languages]
+# [languages.en]
+# languageName = "English"
+# weight = 1
+#
+# [languages.fr]
+# languageName = "Français"
+# weight = 2
+# title = "Michael Droogleever"
+# description = "Diplomé en ingénierie informatique de l'Université de Cambridge"
