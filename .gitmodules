@@ -1,0 +1,3 @@
+[submodule "themes/droogmic-dimension"]
+	path = themes/droogmic-dimension
+	url = https://github.com/droogmic/hugo-theme.git
