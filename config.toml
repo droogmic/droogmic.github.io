@@ -9,6 +9,8 @@ disableKinds=["RSS"]
 title = "Michael Droogleever"
 theme = "droogmic-dimension"
 
+googleAnalytics = "UA-111729278-1"
+
 [params]
   description = "Software engineering graduate from Cambridge University"
   logo = "fa-diamond"
